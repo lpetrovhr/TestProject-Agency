@@ -2,4 +2,5 @@
 
 Agency
 
-Projekt za vježbu. Mala agencija nekretnina. Nedovršen front-end.
+Practice project. 
+I don't want to delete it :P
